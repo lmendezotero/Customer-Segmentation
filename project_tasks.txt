@@ -1,0 +1,6 @@
+Tasks to perform:
+
+1 - Create a remote reposity to share the project content.
+2 - Install python libraries locally.
+3 - Perform data cleaning operations.
+4 - Start analyzing the data.
