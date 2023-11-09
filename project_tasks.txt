@@ -4,3 +4,4 @@ Tasks to perform:
 2 - Install python libraries locally.
 3 - Perform data cleaning operations.
 4 - Start analyzing the data.
+5 - Apply K-means algoritms to the model.
