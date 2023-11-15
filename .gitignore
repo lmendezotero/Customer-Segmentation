@@ -1,6 +1,18 @@
 ## **** Contenido a excluir del control de versiones **** 
 
+<<<<<<< HEAD
 ## Listado de carpetas 
 Drafts_to_ignore/
 
 ## Lista de ficheros
+=======
+# pychache and others
+__pycache__
+*.py[cod]
+*$py.class
+
+# jupyter notebook
+.ipynb_checkpoints
+
+
+>>>>>>> cee97a2fab81fbac2271b8666096310113bb7282
